@@ -1,1 +1,1 @@
-<h1 align='center'>Typescript exercises</h1>
+<h1 align='center'>Typescript exercise</h1>
